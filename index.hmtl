@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>La Suerte de la Fea</title>
+</head>
+
+<body>
+    <div class="container">
+    <div class="wrapper">
+   <img class="programa" src="assets/LaSuerteDeLaFea-03-copia.avif" alt="Programa La Suerte de la Fea"> 
+   <div class="card">
+    <h2>Ficha técnico artística</h2>
+    <div class="info-container">
+      <div class="info-item">
+        <h3>Dramaturgia:</h3>
+        <p> Mauricio Kartun</p>
+      </div>
+      <div class="info-item">
+        <h3>Actúan:</h3>
+        <p> Luciana Dulitzky</p>
+      </div>
+      <div class="info-item">
+        <h3>Intérpretes:</h3>
+        <p> Federico Berthet</p>
+      </div>
+      <div class="info-item">
+        <h3>Peinados:</h3>
+        <p> Granado</p>
+      </div>
+      <div class="info-item">
+        <h3>Diseño de vestuario:</h3>
+        <p> Alejandro Mateo</p>
+      </div>
+      <div class="info-item">
+        <h3>Diseño de escenografía:</h3>
+        <p> Alejandro Mateo</p>
+      </div>
+      <div class="info-item">
+        <h3>Diseño de luces:</h3>
+        <p> Fernanda Balcells</p>
+      </div>
+      <div class="info-item">
+        <h3>Realización de escenografía:</h3>
+        <p> Los Escudero</p>
+      </div>
+      <div class="info-item">
+        <h3>Redes Sociales:</h3>
+        <p> @marte.ar</p>
+      </div>
+      <div class="info-item">
+        <h3>Realización de vestuario:</h3>
+        <p> Lucina Tropini</p>
+      </div>
+      <div class="info-item">
+        <h3>Música:</h3>
+        <p> Federico Berthet</p>
+      </div>
+      <div class="info-item">
+        <h3>Fotografía:</h3>
+        <p> Sofía Montecchiari, Ale Ojeda</p>
+      </div>
+      <div class="info-item">
+        <h3>Diseño gráfico:</h3>
+        <p> Zkysky</p>
+      </div>
+      <div class="info-item">
+        <h3>Asistencia de dirección:</h3>
+        <p> Gabriel Urbani</p>
+      </div>
+      <div class="info-item">
+        <h3>Dirección:</h3>
+        <p> Paula Ransenberg</p>
+      </div>
+      <div class="info-item">
+        <h3>Teatro:</h3>
+        <p>Timbre 4, Boedo 640 </p> <a href="https://www.google.com/maps/place/Teatro+Timbre+4/@-34.6198087,-58.4184964,17z/data=!3m1!5s0x95bccaf88aa44b1d:0x8dcd315f9e17af2e!4m14!1m7!3m6!1s0x95bccaf86000d1e5:0x2fec336c826c37fb!2sTimbre+4!8m2!3d-34.6198087!4d-58.4159215!16s%2Fg%2F11c1rfr61x!3m5!1s0x95bccaf888b47f0f:0xd235feef49c36b40!8m2!3d-34.6202207!4d-58.4164259!16s%2Fg%2F1td0znw8?hl=es&entry=ttu" target="_blank">(mapa)</a>
+      </div>
+
+      <div class="info-item">
+        <h3>Duración:</h3>
+        <p> 50 minutos</p>
+      </div> 
+      <div class="info-item">
+        <h3>Clasificaciones:</h3>
+        <p>Teatro, Adultos, Presencial</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+   
+   <div class="nav-footer">
+
+    <div>
+        <a href="https://www.instagram.com/lasuertedelafea.ok/" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+        </a>
+    </div>
+    <div>
+    <a href="mailto:info@postaexperiences.com" target="_blank">
+        <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="envelope" class="svg-inline--fa fa-envelope fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor"  d="M464 64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm0 48v40.8c-22.4 18.3-58.2 46.7-134.6 106.5-16.8 13.2-50.2 45.1-73.4 44.7-23.2 .4-56.6-31.5-73.4-44.7C106.2 199.5 70.4 171.1 48 152.8V112h416zM48 400V214.4c22.9 18.3 55.4 43.9 104.9 82.6 21.9 17.2 60.1 55.2 103.1 55 42.7 .2 80.5-37.2 103.1-54.9 49.5-38.8 82-64.4 104.9-82.7V400H48z"/></svg>
+        </a>
+    </div>
+    <div>
+        <a href="https://lucianadulitzky.wixsite.com/misitio-2" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" class="svg-inline--fa fa-globe fa-w-14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M352 256c0 22.2-1.2 43.6-3.3 64l-185.3 0c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64l185.3 0c2.2 20.4 3.3 41.8 3.3 64zm28.8-64l123.1 0c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64l-123.1 0c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32l-116.7 0c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0l-176.6 0c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0L18.6 160C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192l123.1 0c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64L8.1 320C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6l176.6 0c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352l116.7 0zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6l116.7 0z"/></svg><i class="fa-solid fa-globe"></i>
+        </a>
+    </div>
+  
+    <div>
+        <a class="letralogo" href="http://panel.alternativateatral.com/obra42363-la-suerte-de-la-fea" title="Alternativa"><svg viewBox="0 0 70 50" width="32.5" height="32" xmlns="http://www.w3.org/2000/svg">
+            <g id="surface31" transform="matrix(1, 0, 0, 1, -316.392181, -255.269531)">
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 344.148438 255.269531 L 321.726562 311.964844 L 324.363281 311.964844 L 346.785156 255.269531 Z M 344.148438 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 338.84375 255.269531 L 316.417969 311.964844 L 319.089844 311.964844 L 341.480469 255.269531 Z M 338.84375 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 349.457031 255.269531 L 327.03125 311.964844 L 329.703125 311.964844 L 352.089844 255.269531 Z M 349.457031 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 343.976562 289.117188 L 350.804688 271.820312 L 357.996094 289.117188 Z M 376.191406 304.800781 C 374.996094 304.6875 374.144531 303.894531 373.632812 302.414062 L 355.90625 262.6875 L 361.277344 262.175781 L 361.277344 255.269531 L 354.707031 255.269531 L 332.28125 311.964844 L 334.953125 311.964844 L 340.878906 296.957031 L 361.289062 296.957031 L 364.425781 304.460938 L 359.308594 304.71875 L 359.308594 311.964844 L 379.003906 311.964844 L 379.003906 305.058594 Z M 376.191406 304.800781 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 647.710938 255.269531 L 625.285156 311.964844 L 627.921875 311.964844 L 650.34375 255.269531 Z M 647.710938 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 642.402344 255.269531 L 619.980469 311.964844 L 622.648438 311.964844 L 645.039062 255.269531 Z M 642.402344 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 653.015625 255.269531 L 630.59375 311.964844 L 633.261719 311.964844 L 655.652344 255.269531 Z M 653.015625 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 665.476562 287.664062 L 648.109375 287.664062 L 657.375 264.199219 L 657.375 271.46875 L 665.476562 271.46875 Z M 673.574219 271.46875 L 673.574219 263.367188 L 665.476562 263.367188 L 665.476562 255.269531 L 658.265625 255.269531 L 635.84375 311.964844 L 638.511719 311.964844 L 644.910156 295.765625 L 665.476562 295.765625 L 665.476562 311.964844 L 681.671875 311.964844 L 681.671875 271.46875 Z M 673.574219 271.46875 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 530.472656 309.917969 L 513.5 257.3125 C 513.144531 256.160156 511.988281 255.269531 510.742188 255.269531 L 506.710938 255.269531 L 484.285156 311.964844 L 487.792969 311.964844 C 490.105469 311.964844 490.371094 310.71875 491.617188 307.519531 C 492.058594 306.453125 492.59375 306.007812 493.480469 306.007812 C 500.414062 306.007812 507.546875 305.386719 508.257812 310.007812 C 508.613281 311.074219 509.945312 311.964844 511.097656 311.964844 L 528.871094 311.964844 C 529.9375 311.964844 530.558594 311.339844 530.558594 310.453125 C 530.558594 310.273438 530.472656 310.097656 530.472656 309.917969 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 490.847656 255.269531 L 468.421875 311.964844 L 471.09375 311.964844 L 493.484375 255.269531 Z M 490.847656 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 501.460938 255.269531 L 479.035156 311.964844 L 481.707031 311.964844 L 504.09375 255.269531 Z M 501.460938 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 496.152344 255.269531 L 473.730469 311.964844 L 476.367188 311.964844 L 498.789062 255.269531 Z M 496.152344 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 194.769531 285.144531 C 194.019531 285.210938 192.039062 285.210938 191.078125 285.242188 L 195.796875 273.292969 C 196.6875 278.265625 197.15625 280.089844 198.308594 284.988281 C 197.179688 285.039062 196 285.09375 194.769531 285.144531 M 225.382812 309.222656 C 224.871094 308.8125 224.5625 308.964844 224.460938 309.683594 C 224.308594 310.402344 223.691406 310.8125 222.613281 310.914062 C 222.972656 311.222656 222.949219 312.09375 222.539062 313.53125 C 222.128906 314.964844 221.742188 315.605469 221.382812 315.453125 C 221.128906 315.351562 220.71875 314.785156 220.152344 313.761719 C 219.539062 312.785156 218.847656 311.453125 218.078125 309.761719 C 216.691406 306.632812 215.050781 302.605469 213.152344 297.683594 C 211.253906 292.761719 209.433594 287.605469 207.691406 282.222656 C 206.253906 277.757812 205.5625 273.597656 204.667969 268.886719 C 203.824219 264.464844 203.445312 258.839844 202.882812 255.347656 L 202.914062 255.269531 L 200.277344 255.269531 L 177.855469 311.964844 L 180.523438 311.964844 L 190.257812 287.320312 L 191.84375 287.375 C 192.972656 287.375 194.207031 287.347656 195.539062 287.296875 C 196.664062 287.246094 197.769531 287.167969 198.84375 287.066406 C 199.714844 290.605469 200.589844 293.757812 201.460938 296.53125 C 204.023438 304.375 206.84375 310.09375 209.921875 313.683594 C 211.5625 315.582031 213.28125 316.964844 215.078125 317.835938 C 216.871094 318.710938 218.792969 319.171875 220.84375 319.222656 L 221.152344 319.222656 C 222.027344 319.222656 222.820312 319.09375 223.539062 318.835938 C 224.253906 318.53125 224.871094 318.09375 225.382812 317.53125 C 226.460938 316.402344 227 314.992188 227 313.296875 L 227 312.992188 C 226.949219 311.144531 226.410156 309.886719 225.382812 309.222656 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 189.722656 255.269531 L 167.300781 311.964844 L 169.933594 311.964844 L 192.359375 255.269531 Z M 189.722656 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 184.414062 255.269531 L 161.992188 311.964844 L 164.664062 311.964844 L 187.050781 255.269531 Z M 184.414062 255.269531 "/>
+              <path style="stroke: none; fill-rule: nonzero; fill-opacity: 1;" d="M 195.027344 255.269531 L 172.605469 311.964844 L 175.273438 311.964844 L 197.664062 255.269531 Z M 195.027344 255.269531 "/>
+            </g>
+          </svg></a>
+    </div>
+</div></div>
+</body>
+</html>

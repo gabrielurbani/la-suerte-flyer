@@ -34,11 +34,11 @@ img.programa {
     
     background-color: #fff;
     border-radius: .5rem;
-    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.1);
     padding: 1rem;
     width: 100vh;
     max-width: 100%;
-    margin: 0 auto;
+    margin: 1rem auto;
   }
   
   .card h2 {

@@ -86,6 +86,9 @@ svg.svg-inline--fa {
     .card {
       width: 80vh;
     }
+    body {
+      height: 100vh;
+    }
 }
 
 @font-face {

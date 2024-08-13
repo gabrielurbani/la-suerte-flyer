@@ -108,8 +108,11 @@ svg.svg-inline--fa {
     .nav-social-personal{
       flex-direction: column;
       line-height: 2rem;
+      align-items: start;
+      p {
+        font-size: large;
+      }
       h2 {
-        align-self: start;
         margin-bottom: 2rem;
       }
     }

@@ -64,13 +64,29 @@ img.programa {
     font-size: 1rem;
     color: #3c3b3b;
   }
+  .nav-social-personal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    padding: 1rem;
+    p{
+      font-weight: bolder;
+      color: #000;
+    }
+    a {
+      font-weight: bold;
+      color: #3c3b3b;
+      margin-right: 1.5rem;
+      
+    }
+  }
+  
   .nav-footer {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 20vh;
-  
-    
 }
 svg.svg-inline--fa {
     display: flex;
@@ -88,6 +104,14 @@ svg.svg-inline--fa {
     }
     body {
       height: 100vh;
+    }
+    .nav-social-personal{
+      flex-direction: column;
+      line-height: 2rem;
+      h2 {
+        align-self: start;
+        margin-bottom: 2rem;
+      }
     }
 }
 

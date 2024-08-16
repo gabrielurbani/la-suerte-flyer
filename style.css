@@ -64,6 +64,29 @@ img.programa {
     font-size: 1rem;
     color: #3c3b3b;
   }
+  .entradas{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 10px;
+    .entradas-body{
+      grid-column-start: 1;
+      grid-column-end:2 ; 
+    }
+    .shared-icon{
+      display: none;
+      grid-column-start: 2;
+      grid-column-end:3 ;
+      justify-self: end;
+      align-self: center;
+    }
+
+    .ticket{
+      grid-column-start: 2;
+      grid-column-end:3 ;
+      justify-self: end;
+      align-self: center;
+    }
+  }
   .nav-social-personal{
     background-color: #fff;
     padding: 1rem;
@@ -110,6 +133,7 @@ svg.svg-inline--fa {
       height: 100vh;
     }
     .nav-social-personal{
+      width: 80vh;
       flex-direction: column;
       line-height: 2rem;
       align-items: start;
@@ -118,6 +142,16 @@ svg.svg-inline--fa {
       }
       h2 {
         margin-bottom: 1rem;
+      }
+    }
+    .entradas{
+      .ticket{
+        display: none;
+      }
+      .shared-icon{
+        display: flex;
+        justify-content: end;
+        align-self: flex-end;
       }
     }
 }
